@@ -54,7 +54,7 @@
                         </div>
                         <div class="col-md-6 mb-3">
                             <label for="">Type</label>
-                            <select name="type  " class="form-control">
+                            <select name="type" class="form-control">
                                 @foreach($category as $categorys)
                                     <option value="{{ $categorys->id }}">{{ $categorys->name }}</option>
                                 @endforeach
