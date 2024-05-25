@@ -1,0 +1,6 @@
+@font-face{font-family:'Century Gothic';src:url(../fonts/gothic.eot);src:url(../fonts/CenturyGothic.woff) format('woff'),url(../fonts/CenturyGothic.ttf) format('truetype')}
+html, body{
+    /*font-family: century-gothic, sans-serif; */
+    font-family: "Century Gothic" !important;
+
+ }
